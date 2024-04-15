@@ -15,11 +15,15 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                'gris': '#7d7f7d'
+            }
+
         },
     },
 
     plugins: [
-    require("daisyui"),
-    forms],
+        require("daisyui"),
+        forms],
 
 };
