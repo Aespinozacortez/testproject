@@ -24,7 +24,7 @@ const contentEditor = `<h2>
           Hola,
         </h2>
         <p>
-          Este es un ejemplo de cÃ³mo pasar editorData como prop.
+          Este es un ejemplo de como pasar editorData como prop.
         </p>`
 function handleImageError() {
   document.getElementById('screenshot-container')?.classList.add('!hidden');
