@@ -14,7 +14,6 @@ import { computed } from 'vue';
 
                 <li><a>Gestionar Cursos</a></li>
                 </Link>
-                
 
                 <li>
                     <details>
